@@ -10,7 +10,7 @@ My name is Marion (Geary) Bauman, and I'm a data scientist and statistician pass
 - Why Americans Travel: Predicting Trip Purpose from the National Household Travel Survey [paper](https://github.com/mfgeary/dsan5300-project/blob/main/paper/final-paper.pdf) | [poster](https://github.com/mfgeary/dsan5300-project/blob/main/code/poster/create-poster.html) | [repo: dsan5300-project](https://github.com/mfgeary/dsan5300-project/tree/main)
 - Predicting NFL Fantasy Football Points [paper](https://mfgeary.github.io/nfl-machine-learning/) | [repo: nfl-machine-learning](https://github.com/mfgeary/nfl-machine-learning)
 
-### About me
+### About Me
 - :mortar_board: I'm currently studying for my M.S. in Data Science & Analytics at Georgetown University. I have a B.S. in Applied Mathematics from Wheaton College (IL).
 - :briefcase: For more details about my work experience, check out my [LinkedIn](https://www.linkedin.com/in/marion-geary-bauman/)
 - In my free time, I enjoy reading :books:, cross-stitching :sewing_needle:, playing pickleball :tennis:, and drinking tea :teapot:.
