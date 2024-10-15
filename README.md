@@ -3,7 +3,7 @@
 My name is Marion (Geary) Bauman, and I'm a data scientist and statistician passionate about using data to make the world a better place.
 
 ### Interesting Projects
-- Homophone Disambiguation using BERT [website](https://mfgeary.github.io/dsan5800-final-project/) | [repo: dsan5800-final-project](https://github.com/mfgeary/dsan5800-final-project)
+- Homophone Checker using BERT [website](https://mfgeary.github.io/dsan5800-final-project/) | [repo: dsan5800-final-project](https://github.com/mfgeary/dsan5800-final-project)
 - Detecting Lumbar Spine Degenerative Conditions From MRI Images [repo: dsan6500-project](https://github.com/mfgeary/dsan6500-project)
 - Visualizing Car Thefts in DC [website](https://mfgeary.github.io/dsan5200-project/) | [repo: dsan5200-project](https://github.com/mfgeary/dsan5200-project)
 - Machine Learning to Determine the Link Between Schizophrenia and Cannabis [website](https://mgb.georgetown.domains/5000-website/_site/) | [repo: anly501/dsan-5000-project-mfgeary](https://github.com/anly501/dsan-5000-project-mfgeary)
