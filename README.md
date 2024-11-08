@@ -7,7 +7,7 @@ My name is Marion (Geary) Bauman, and I'm a data scientist and statistician pass
 - Detecting Lumbar Spine Degenerative Conditions From MRI Images [paper](https://github.com/mfgeary/dsan6500-project/blob/main/report/Project%20Report.pdf) | [repo: dsan6500-project](https://github.com/mfgeary/dsan6500-project)
 - Visualizing Car Thefts in DC [website](https://mfgeary.github.io/dsan5200-project/) | [repo: dsan5200-project](https://github.com/mfgeary/dsan5200-project)
 - Machine Learning to Determine the Link Between Schizophrenia and Cannabis [website](https://mgb.georgetown.domains/5000-website/_site/) | [repo: anly501/dsan-5000-project-mfgeary](https://github.com/anly501/dsan-5000-project-mfgeary)
-- Why Americans Travel: Predicting Trip Purpose from the National Household Travel Survey [paper](https://github.com/mfgeary/dsan5300-project/blob/main/paper/final-paper.pdf) | [poster](https://github.com/mfgeary/dsan5300-project/blob/main/code/poster/create-poster.html) | [repo: dsan5300-project](https://github.com/mfgeary/dsan5300-project/tree/main)
+- Why Americans Travel: Predicting Trip Purpose from the National Household Travel Survey [paper](https://github.com/mfgeary/dsan5300-project/blob/main/paper/final-paper.pdf) | [poster](https://github.com/mfgeary/dsan5300-project/blob/main/code/poster/poster.pdf) | [repo: dsan5300-project](https://github.com/mfgeary/dsan5300-project/tree/main)
 - Predicting NFL Fantasy Football Points [paper](https://mfgeary.github.io/nfl-machine-learning/) | [repo: nfl-machine-learning](https://github.com/mfgeary/nfl-machine-learning)
 
 ### About Me
